@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesFPS_Main", "SalesFPS_Main.csproj", "{97E11B03-6C23-4F80-BCEC-9992D555D085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesFPS_DataGenerator", "SalesFPS_DataGenerator\SalesFPS_DataGenerator.csproj", "{22C1965B-97C5-4237-8D15-515E4866B21C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E11B03-6C23-4F80-BCEC-9992D555D085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E11B03-6C23-4F80-BCEC-9992D555D085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E11B03-6C23-4F80-BCEC-9992D555D085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E11B03-6C23-4F80-BCEC-9992D555D085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C1965B-97C5-4237-8D15-515E4866B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C1965B-97C5-4237-8D15-515E4866B21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C1965B-97C5-4237-8D15-515E4866B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C1965B-97C5-4237-8D15-515E4866B21C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF61E223-65F6-40EE-A09A-9CBCAC67F1FF}
+	EndGlobalSection
+EndGlobal
