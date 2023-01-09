@@ -1,4 +1,4 @@
-# SalesFPS_Main
+# Sales File Processing System (FPS) with Windows Forms C# and LINQ 
 
 ##Learn File Processing System (FPS) with Windows Forms C# and LINQ
 
@@ -11,4 +11,4 @@ Gerson de Oliveira
 gerson@gerson.com.br
 
 ### Watch !
-[![ Learn File Processing System (FPS) with Windows Forms C# and LINQ   ] https://www.youtube.com/watch?v=yQ1ZeEVdP2U]
+[![ Learn File Processing System (FPS) with Windows Forms C# and LINQ ] 	https://i.ytimg.com/vi/yQ1ZeEVdP2U/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLB0nWMg2dmM7x11pcvatiC8vVBVWQ] (https://www.youtube.com/watch?v=yQ1ZeEVdP2U "Asssistir no YouTube")
